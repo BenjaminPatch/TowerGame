@@ -1,3 +1,5 @@
+# Tower Defence Game
+
 Used to assess the students ability to understand and utilies concepts of OOP
 and GUI programming. Code given to use at the start of the project allows for
 a simple and limited game to be played with very few features.
